@@ -14,7 +14,7 @@
 	
 	"astrolabe": "0.3.6",
 	"jasmine-reporters": "2.3.1",
-	"protractor": "~5.1.2",
+	"protractor": "5.1.2",
 	"elementor":"2.1.0",
 	"winston": "1.0.1",
 	"selenium-webdriver": "4.0.0-alpha.1",
