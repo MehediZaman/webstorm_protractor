@@ -1,0 +1,37 @@
+{
+
+	"name": "ProtractorTest",
+	"version": "1.0.0",
+	"description": "ProtractorTest",
+	"main": "app.js",
+	"author": {
+	"name": "SDET Mehedi Zaman",
+	"email": "mehedizmn@hotmail.com"
+	},
+	
+	"devDependencies": {
+	
+	
+	"astrolabe": "0.3.6",
+	"jasmine-reporters": "2.3.1",
+	"protractor": "~5.1.2",
+	"elementor":"2.1.0",
+	"winston": "1.0.1",
+	"selenium-webdriver": "4.0.0-alpha.1",
+	"exceljs": "^0.2.3",
+	"jasmine-allure-reporter": "^0.2.3"
+
+	
+	},
+	
+	"dependencies": {
+	
+	
+	"path": "^0.12.7",
+	"promise": "^7.0.4"
+	
+	}
+
+
+}
+
